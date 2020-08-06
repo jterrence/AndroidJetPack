@@ -1,0 +1,2 @@
+rootProject.name = "AndroidJetPack"
+include ':app'
